@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e46ce950869fcd947b657288a7875710
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Caveat
+  fontNames:
+  - Caveat
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 73c5f301f58000e44891ee69864940b7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
